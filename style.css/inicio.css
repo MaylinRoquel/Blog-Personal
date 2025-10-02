@@ -1,0 +1,47 @@
+body{
+    font-family: Arial;
+    margin: 0;
+}
+
+header{
+    background-color: rgb(222, 155, 255);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav{
+   display: flex;
+   flex-direction: column-reverse;
+}
+
+nav a{
+    color:aliceblue;
+    margin: 15 px;
+    text-decoration: none;
+}
+
+main{
+    color:black;
+    display:flex;
+    padding: 60px;
+    background-color: rgb(222, 155, 255);
+}
+
+article{
+    color:aliceblue;
+}
+
+
+aside img{
+    width: 300px;
+    height: auto;
+    float: center;
+}
+
+footer{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 15px;
+}
