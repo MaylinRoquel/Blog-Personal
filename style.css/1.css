@@ -1,0 +1,56 @@
+body{
+    font-family: Arial;
+    margin: 0;
+}
+
+header{
+    background-color:#6C597E ;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav{
+    background-color: #CEBACF;
+    color:black;
+    padding: 20px;
+    text-align: left;
+}
+
+nav a{
+    color:rgb(0, 0, 0);
+    margin: 15px;
+    text-decoration: none;
+}
+
+main{
+    color:aliceblue;
+    display: flex;
+    padding: 60px;
+    background: #6C597E;
+}
+
+section{
+ display: flex;
+ padding-top: 40px; 
+}
+
+article{
+    background: #B0A3D4;
+
+
+
+}
+
+aside img{
+    width: 300px;
+    height: auto;
+    float: center;
+}
+
+footer{
+    background: #C6AFB1;
+    color:aliceblue;
+    text-align: center;
+    padding:15px;
+}
