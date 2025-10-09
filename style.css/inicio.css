@@ -23,6 +23,13 @@ nav a{
     text-decoration: none;
 }
 
+
+nav img{
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    
+}
 main{
     color:rgb(255, 255, 255);
     display:flex;
